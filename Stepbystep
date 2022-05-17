@@ -1,0 +1,25 @@
+Instalção odoo 15 em sistemas ubuntu 20.04
+
+Faça login e atualize o servidor
+
+$ sudo apt-get update -y && apt-get upgrade -y
+
+Instalar dependências necessárias
+
+$ sudo apt-get install python3-pip python-dev python3-dev libxml2-dev libpq-dev libjpeg8-dev liblcms2-dev libxslt1-dev zlib1g-dev libsasl2-dev libldap2-dev build-essential git libssl-dev libffi-dev libmysqlclient-dev libjpeg-dev libblas-dev libatlas-base-dev -y
+
+Node.js e o NPM
+
+$ sudo apt-get install npm
+$ sudo npm install -g less less-plugin-clean-css
+$ sudo apt-get install node-less
+
+Pacote wkhtmltopdf
+
+$ sudo wget https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6-1/wkhtmltox_0.12.6-1.bionic_amd64.deb 
+$ sudo dpkg -i wkhtmltox_0.12.6-1.bionic_amd64.deb
+$ sudo apt-get install -f
+
+Instale o PostgreSQL
+
+$ sudo apt-get install postgresql -y
