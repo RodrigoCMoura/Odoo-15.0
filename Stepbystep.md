@@ -165,7 +165,15 @@ $ systemctl reinicie o nginx
 
 Agora, quando você sabe que a nova instalação do Odoo está ativa e em execução no servidor, você pode acessá-la usando a URL http://odoo15.example.com . Se a instalação foi concluída com sucesso, você poderá ver a tela Odoo conforme mostrado abaixo e criar seu primeiro banco de dados:
 
+<h1 align="center">
+    <img alt="ScraperDateTime" title="ScraperDateTime" src=".github/login.png" />
+</h1>
+
 A partir daqui, basta digitar sua senha mestra e preencher os campos com as informações necessárias para o seu caso de uso. Em seguida, clique no botão Criar banco de dados . Você deve ver o painel Odoo15:
+
+<h1 align="center">
+    <img alt="ScraperDateTime" title="ScraperDateTime" src=".github/painel.png" />
+</h1>
 
 
 

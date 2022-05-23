@@ -29,7 +29,7 @@ Esse tutorial necessita das seguintes tecnologias:
 ## 💻 Projeto
 
 Projeto elaborado para a instalação da ferramenta odoo ERP e CRM em sua versão 15.0
-- [Step by Step](https://github.com/RodrigoCMoura/Odoo-15.0/blob/main/Stepbystep)
+- [Step by Step](https://github.com/RodrigoCMoura/Odoo-15.0/blob/main/Stepbystep.md)
 
 ## 🧠 Agradecimento
 
