@@ -34,6 +34,7 @@ $ ALTER USER odoo15 WITH SUPERUSER;
 # Em seguida, saia do PostgreSQL com o seguinte comando:
 
 $ \q
+
 $ exit
 
 # Instalar e configurar o Odoo 15 (criando usuario odoo)
@@ -98,9 +99,9 @@ $ systemctl enable odoo15
 
 $ systemctl status odoo15
 
-* * Output:
+*  Output:
 
-● odoo15.service - Odoo
+ odoo15.service - Odoo
      Loaded: loaded (/etc/systemd/system/odoo15.service; disabled; vendor preset: enabled)
      Active: active (running) since Mon 2021-10-11 10:35:36 UTC; 5s ago
        Docs: http://www.odoo.com
