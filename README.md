@@ -11,4 +11,7 @@ Esse tutorial necessita das seguintes tecnologias:
 - [Node.js](https://nodejs.org/en/)
 - [Python](https://www.python.org/downloads/)
 - [NPM](https://www.npmjs.com/package/npm)
+- [wkhtmltopdf](https://wkhtmltopdf.org/)
+- [PostgreSQL](https://www.postgresql.org/)
+- [Nginx](https://www.nginx.com/)
 
